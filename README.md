@@ -99,7 +99,7 @@ export default howManyParks;
 
 Once we've exported the variable, we can use the `import` keyword to access that
 variable in another file:
-
+     
 ```jsx
 // src/ColoradoStateParks.js
 import React from "react";
